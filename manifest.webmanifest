@@ -1,0 +1,10 @@
+{
+  "name":"家庭寻宝",
+  "short_name":"家庭寻宝",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f7f4ee",
+  "theme_color":"#f7f4ee",
+  "lang":"zh-CN",
+  "icons":[]
+}
